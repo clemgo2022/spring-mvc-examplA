@@ -8,11 +8,17 @@
 <title>Home</title>
 </head>
 <body>
-	<h1>Hello world!</h1>
+	<h1>Hola mundo!</h1>
 	<P>The time on the server is ${serverTime}.</p>
 	<form action="user" method="post">
-		<input type="text" name="userName"><br> <input
-			type="submit" value="Login">
+		
+		<input type="text" name="number"><br> 
+		
+		
+		<input type="text" name="username"><br> 
+		
+		
+		<input type="submit" value="Login">
 	</form>
 </body>
 </html>
