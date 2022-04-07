@@ -8,7 +8,7 @@
 <body>
 	</h3>Hola  ${userName} majete</h3>  
 	
-	 <P>Fecha en tu servidor con los dias sumados ➧➧➧ ${newServerTime}.</P>
+	 <P>Esta es la echa en tu servidor con los dias sumados ➧➧➧ ${newServerTime}.</P>
 	
 	<a href="javascript:history.go(-1);">Volver a a pagina anterior</a>
 	
