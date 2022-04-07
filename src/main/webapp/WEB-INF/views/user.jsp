@@ -6,7 +6,7 @@
 <title>User Home Page</title>
 </head>
 <body>
-	<P>Hola majete ${username}</P>
+	</h3>Hola majete </h3>  <P>  ${username} </P>
 	
 	 <P>Fecha en tu servidor con los dias sumados ➧➧➧ ${newServerTime}.</P>
 	
