@@ -8,8 +8,8 @@
 <title>Home</title>
 </head>
 <body>
-	<h1>Hola mundo!</h1>
-	<P>The time on the server is ${serverTime}.</p>
+	<h1>Que pasa majo¡¡</h1>
+	<P>El tiempo en tu servidor es: ${serverTime}.</p>
 	<form action="user" method="post">
 		
 		<input type="text" name="number"><br> 
