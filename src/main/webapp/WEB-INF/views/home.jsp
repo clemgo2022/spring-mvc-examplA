@@ -14,7 +14,7 @@
 		 
 	
 		
-		<h1>Introduzca su nombre y apellido</h1>
+		<h1>Introduzca los datos</h1>
 		<h1> Nombre <input type="text" name="userName"> 
 		
 		
