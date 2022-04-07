@@ -21,7 +21,7 @@
 		<h1>⬇⬇ Pulse aqui ⬇⬇</h1>
 		<input type="submit" value="  OBTENER RESULTADO  ">
 		
-		<h1><input type="button" value="VACIAR LAS CASILLAS" onclick="location.reload()"/></h1>
+		<h1><input type="button" value=" VACIAR LAS CASILLAS " onclick="location.reload()"/></h1>
 		
 	
 		
