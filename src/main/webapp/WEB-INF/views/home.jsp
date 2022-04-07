@@ -8,7 +8,7 @@
 <title>Home</title>
 </head>
 <body>
-	<h1>Que pasa majo¡¡</h1>
+	<h1>Que pasa majo, vamos al lio¡¡</h1>
 	<P>Fecha en tu servidor ➧➧➧ ${serverTime}.</p>
 	<form action="user" method="post">
 		 
