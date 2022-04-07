@@ -58,6 +58,14 @@ public class HomeController {
 		       DateFormat  dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
 		        
 		       date.setDate(date.getDate() + numero );
+		       
+		    
+
+		   	/**
+		   	 *preguntar por la funcion de arriba me salia tambien calendar
+		   	 * Calendar rightNow = Calendar.getInstance(); si se puede sustituir por la e arriba
+
+		   	 */
 		        
 		       String formattedDate = dateFormat.format (date);
 		       
