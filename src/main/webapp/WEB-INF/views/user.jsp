@@ -13,7 +13,7 @@
 	
 
     <script type="text/javascript">
-        document.getElementById('UserName').style.backgroundColor = 'red';
+        document.getElementUserName('UserName').style.backgroundColor = 'red';
     </script>
 	
 	
