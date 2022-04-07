@@ -9,7 +9,7 @@
 </head>
 <body>
 	<h1>Que pasa majo, vamos al lio¡¡</h1>
-	<P>Fecha en tu servidor ➧➧➧ ${serverTime}.</p>
+	<P>Esta es la fecha de hoy ➧➧➧ ${serverTime}.</p>
 	<form action="user" method="post">
 		 
 		<h1>Introduzca un numero de dias.</h1>
