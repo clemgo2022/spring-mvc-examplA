@@ -16,13 +16,13 @@
 		<input type="text" name="number"><br> 
 		
 		<h1>Introduzca su nombre y apellido</h1>
-		</h3><h1> nombre <input type="text" name="userName"> </h1>
+		<h1> nombre <input type="text" name="userName"> </h1>
 		
 		
 		
 		
 	
-		<h1> apellido<input type="text" name="userSurname"><br> </h1></h3>
+		<h1> apellido<input type="text" name="userSurname"><br> </h1>
 		
 		
 		
