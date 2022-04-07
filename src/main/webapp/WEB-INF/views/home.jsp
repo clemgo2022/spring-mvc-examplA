@@ -25,14 +25,15 @@
 		
 		
 			<h1>Introduzca numero de dias.</h1>
+			
 		<input type="text" name="number"><br> 
 		
 		
 		
 	
-		<input type="submit" value="  OBTENER RESULTADO  ">
+			<h1> <input type="submit" value="  OBTENER RESULTADO  ">
 		
-		<input type="button" value="  VACIAR LAS CASILLAS  " onclick="location.reload()"/>
+		<input type="button" value="  VACIAR LAS CASILLAS  " onclick="location.reload()"/></h1>
 		
 	
 		
