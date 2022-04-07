@@ -12,13 +12,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.formacion.nttdata.hello.model.User;
 
 
-
 @Controller
 
 public class HomeController {
 
 	/**
-	 * 
+	 *get recibo algo post mando informacion
 	 * Simply selects the home view to render by returning its name.
 	 * 
 	 */
@@ -52,13 +51,13 @@ public class HomeController {
 		       
 	   
 		       
-		       int dig = user.getNumber();
+		       int numero = user.getNumber();
 		    	
 		       Date date= new Date (); 
 		        
 		       DateFormat  dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
 		        
-		       date.setDate(date.getDate() + dig );
+		       date.setDate(date.getDate() + numero );
 		        
 		       String formattedDate = dateFormat.format (date);
 		       
@@ -66,20 +65,10 @@ public class HomeController {
 		        		     
                model.addAttribute("userName", user.getUserName());
                
-               
-               
-               
-               
-               
-               
+             
                model.addAttribute("userSurname", user.getUserSurname());
                
-               
-               
-               
-               
-
-		        return "user";
+ 		        return "user";
 	     
 		     
 		     
