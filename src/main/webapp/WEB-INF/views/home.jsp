@@ -11,10 +11,7 @@
 	<h1>Que pasa majo, vamos al lio¡¡</h1>
 	<P>Esta es la fecha de hoy ➧➧➧ ${serverTime}.</p>
 	<form action="user" method="post">
-		 
-	
-		
-		<h1>Introduzca los datos:</h1>
+	<h1>Introduzca los datos:</h1>
 		<h1> Nombre <input type="text" name="userName"> 
 		
 		 Apellido<input type="text" name="userSurname"><br> </h1>
@@ -27,17 +24,6 @@
 		
 		<input type="button" value="  VACIAR LAS CASILLAS  " onclick="location.reload()"/></h1>
 		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	</form>
+</form>
 </body>
 </html>
