@@ -8,18 +8,15 @@
 <body>
 	<center>
 	<b>Hola  ${userName} ${userSurname}  majete  </b>
-	
-    <script type="text/javascript">
-        document.body.style.backgroundColor = '#FFFFCC';
-    </script>
-    
+
 	 <P>Esta es la fecha en tu servidor con los dias sumados ➧➧➧ ${newServerTime}.</P>
-	 
-	 
-	
 	
 	<a href="javascript:history.go(-1);">Volver a a pagina anterior</a>
 	
+	
+	<script type="text/javascript">
+        document.body.style.backgroundColor = '#FFFFCC';
+    </script>
 	</center>
 </body>
 </html>

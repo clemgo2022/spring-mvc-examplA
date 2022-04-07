@@ -8,6 +8,12 @@
 <title>Home</title>
 </head>
 <body>
+
+<script type="text/javascript">
+        document.body.style.backgroundColor = '#FFFFCC';
+    </script>
+
+
 <center> 
 	 <h1>Que pasa majo, vamos al lio¡¡</h1>
 	 
