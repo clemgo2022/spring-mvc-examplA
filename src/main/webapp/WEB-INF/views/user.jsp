@@ -16,9 +16,9 @@
 	 <P>Esta es la fecha en tu servidor con los dias sumados ➧➧➧ ${newServerTime}.</P>
 	 
 	 
-	<P></P>	<P></P>	<P></P>
 	
-	<a href="javascript:history.go(-1);">Volver a a pagina anterior</a>
+	
+	<P><a href="javascript:history.go(-1);">Volver a a pagina anterior</a></P>
 	
 	</center>
 </body>
