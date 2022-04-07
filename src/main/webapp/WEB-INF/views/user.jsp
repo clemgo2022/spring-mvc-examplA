@@ -6,7 +6,7 @@
 <title>User Home Page</title>
 </head>
 <body>
-	<h3>Hi ${userName}</h3>
+	<h3>Hola majete ${userName}</h3>
 	
 	<P> La Fecha en tu servidor es: ${newServerTime}.</P>
 </body>
