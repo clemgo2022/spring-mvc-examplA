@@ -17,21 +17,13 @@
 		<h1>Introduzca los datos:</h1>
 		<h1> Nombre <input type="text" name="userName"> 
 		
-		
-		
-		
-	
 		 Apellido<input type="text" name="userSurname"><br> </h1>
 		
-		
-			<h1>Introduzca numero de dias.</h1>
+		<h1>Introduzca numero de dias.
 			
-		<input type="text" name="number"><br> 
+		<input type="text" name="number"><br> </h1>
 		
-		
-		
-	
-			<h1> <input type="submit" value="  OBTENER RESULTADO  ">
+		<h1> <input type="submit" value="  OBTENER RESULTADO  ">
 		
 		<input type="button" value="  VACIAR LAS CASILLAS  " onclick="location.reload()"/></h1>
 		
