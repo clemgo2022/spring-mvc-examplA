@@ -8,6 +8,6 @@
 <body>
 	<h3>Hola majete ${userName}</h3>
 	
-	<P> La Fecha en tu servidor es: ${newServerTime}.</P>
+	<P> Fecha en tu servidor con los dias sumados ➧➧➧ ${newServerTime}.</P>
 </body>
 </html>
