@@ -16,23 +16,23 @@
 		<input type="text" name="number"><br> 
 		
 		<h1>Introduzca su nombre y apellido</h1>
-		<h1> nombre <input type="text" name="userName"> 
+		<h1> Nombre <input type="text" name="userName"> 
 		
 		
 		
 		
 	
-		 apellido<input type="text" name="userSurname"><br> </h1>
+		 Apellido<input type="text" name="userSurname"><br> </h1>
 		
 		
 		
 		
 		
 		
-		<h1>⬇⬇ Pulse aqui </h1>
+	
 		<input type="submit" value="  OBTENER RESULTADO  ">
 		
-		<h1><input type="button" value="  VACIAR LAS CASILLAS  " onclick="location.reload()"/></h1>
+		<input type="button" value="  VACIAR LAS CASILLAS  " onclick="location.reload()"/>
 		
 	
 		
