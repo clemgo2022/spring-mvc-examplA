@@ -9,10 +9,10 @@
 </head>
 <body>
 	<h1>Que pasa majo¡¡</h1>
-	<P>La Fecha en tu servidor es: ${serverTime}.</p>
+	<P>La Fecha en tu servidor es➡ ${serverTime}.</p>
 	<form action="user" method="post">
-		
-		<h1>Introduzca un numero.</h1>
+		 
+		<h1>Introduzca un numero de dias.</h1>
 		<input type="text" name="number"><br> 
 		
 		<h1>Introduzca texto.</h1>
