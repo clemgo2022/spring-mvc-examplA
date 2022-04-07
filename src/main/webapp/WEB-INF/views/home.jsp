@@ -12,10 +12,10 @@
 	<P>Esta es la fecha de hoy ➧➧➧ ${serverTime}.</p>
 	<form action="user" method="post">
 		 
-		<h1>Introduzca un numero de dias.</h1>
+		<h1>Introduzca numero de dias.</h1>
 		<input type="text" name="number"><br> 
 		
-		<h1>Introduzca texto.</h1>
+		<h1>Introduzca su nombre.</h1>
 		<input type="text" name="userName"><br> 
 		
 		<h1>⬇⬇ Pulse aqui ⬇⬇</h1>
