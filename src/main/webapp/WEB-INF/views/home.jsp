@@ -21,7 +21,7 @@
 		<h1>⬇⬇ Pulse aqui ⬇⬇</h1>
 		<input type="submit" value="  OBTENER RESULTADO  ">
 		
-		<input type="button" value="Actualizar" onclick="location.reload()"/>
+		<h1><input type="button" value="Actualizar" onclick="location.reload()"/></h1>
 		
 	<h1>	<a href="javascript:location.reload()">   Vaciar las casillas</a></h1>
 		
