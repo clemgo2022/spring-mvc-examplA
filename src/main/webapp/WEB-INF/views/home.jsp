@@ -23,7 +23,7 @@
 		
 		<input type="button" value="Actualizar" onclick="location.reload()"/>
 		
-	<h1><P>	<a href="javascript:location.reload()">   Vaciar las casillas</a></p></h1>
+	<h1>	<a href="javascript:location.reload()">   Vaciar las casillas</a></h1>
 		
 		
 		
