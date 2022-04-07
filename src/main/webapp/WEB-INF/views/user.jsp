@@ -10,7 +10,9 @@
 	
 	
 	
-	
+	<script type="text/javascript">
+        document.body.style.backgroundColor = 'green';
+    </script>
 
     <script type="text/javascript">
         document.getElementUserName('UserName').style.backgroundColor = 'red';
