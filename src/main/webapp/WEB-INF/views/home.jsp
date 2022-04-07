@@ -19,7 +19,7 @@
 		<input type="text" name="username"><br> 
 		
 		<h1>⬇⬇ Pulse aqui ⬇⬇</h1>
-		<input type="submit" value="pulsar">
+		<input type="submit" value="OBTENER RESULTADO">
 	</form>
 </body>
 </html>
