@@ -10,7 +10,7 @@
 <body>
 
 <script type="text/javascript">
-        document.body.style.backgroundColor = '#FFFFCC';
+        document.body.style.backgroundColor = '#CCFFFF';
     </script>
 
 
