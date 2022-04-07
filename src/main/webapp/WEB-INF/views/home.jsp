@@ -24,7 +24,7 @@
 		
 		
 		
-		<a href="javascript:history.go(-1);">volvemos a la 1 página anterior</a>
+		
 		
 		
 		

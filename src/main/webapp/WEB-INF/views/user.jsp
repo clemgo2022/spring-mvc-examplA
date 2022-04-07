@@ -9,5 +9,7 @@
 	<h3>Hola majete ${userName}</h3>
 	
 	<P> Fecha en tu servidor con los dias sumados ➧➧➧ ${newServerTime}.</P>
+	
+	<a href="javascript:history.go();">volver a a pagina anterior</a>
 </body>
 </html>
