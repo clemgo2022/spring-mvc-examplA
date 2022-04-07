@@ -15,7 +15,7 @@
     </script>
 
     <script type="text/javascript">
-        document.getElementgetElementById('userName').style.backgroundColor = 'red';
+        document.getElementById('userName').style.backgroundColor = 'red';
     </script>
 	
 	
