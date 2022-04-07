@@ -22,7 +22,7 @@
 		
 		
 			<h1>Introduzca su apellido.</h1>
-		<input type="text" name="userSurnamee"><br> 
+		<input type="text" name="userSurname"><br> 
 		
 		
 		
