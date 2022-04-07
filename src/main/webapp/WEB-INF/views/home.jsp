@@ -15,13 +15,13 @@
 		<h1>Introduzca numero de dias.</h1>
 		<input type="text" name="number"><br> 
 		
-		<h1>Introduzca su nombre.</h1>
+		<h1>Introduzca su nombre y apellido</h1>
 		<input type="text" name="userName"><br> 
 		
 		
 		
 		
-			<h1>Introduzca su apellido.</h1>
+	
 		<input type="text" name="userSurname"><br> 
 		
 		
