@@ -6,6 +6,11 @@
 <title>User Home Page</title>
 </head>
 <body>
+
+	<script type="text/javascript">
+        document.body.style.backgroundColor = '#FFFFCC';
+    </script>
+
 	<center>
 	<b>Hola  ${userName} ${userSurname}  majete  </b>
 
@@ -14,9 +19,6 @@
 	<a href="javascript:history.go(-1);">Volver a a pagina anterior</a>
 	
 	
-	<script type="text/javascript">
-        document.body.style.backgroundColor = '#FFFFCC';
-    </script>
 	</center>
 </body>
 </html>
