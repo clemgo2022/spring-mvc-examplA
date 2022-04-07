@@ -11,7 +11,7 @@
 	
 	
 	<script type="text/javascript">
-        document.body.style.backgroundColor = 'green';
+        document.body.style.backgroundColor = '#FFFFCC';
     </script>
 
     <script type="text/javascript">
