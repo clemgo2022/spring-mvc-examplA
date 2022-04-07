@@ -6,6 +6,7 @@
 <title>User Home Page</title>
 </head>
 <body>
+	<center>
 	<b>Hola  ${userName} ${userSurname}  majete  </b>
 	
     <script type="text/javascript">
@@ -16,6 +17,6 @@
 	
 	<a href="javascript:history.go(-1);">Volver a a pagina anterior</a>
 	
-	
+	</center>
 </body>
 </html>
