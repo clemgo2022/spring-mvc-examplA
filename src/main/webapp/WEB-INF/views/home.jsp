@@ -18,7 +18,7 @@
 		<h1> Nombre <input type="text" name="userName"> 
 		
 		 Apellido<input type="text" name="userSurname"><br> </h1>
-		
+		 
 		<h1>Introduzca numero de dias.
 			
 		<input type="text" name="number"><br> </h1>

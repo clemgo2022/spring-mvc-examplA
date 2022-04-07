@@ -10,6 +10,15 @@
 	
 	
 	
+	
+
+    <script type="text/javascript">
+        document.getElementById('UserName').style.backgroundColor = 'red';
+    </script>
+	
+	
+	
+	
 	 <P>Esta es la fecha en tu servidor con los dias sumados ➧➧➧ ${newServerTime}.</P>
 	
 	<a href="javascript:history.go(-1);">Volver a a pagina anterior</a>
