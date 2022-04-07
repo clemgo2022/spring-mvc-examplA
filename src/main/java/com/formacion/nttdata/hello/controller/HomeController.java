@@ -1,5 +1,4 @@
 package com.formacion.nttdata.hello.controller;
-
 import java.text.DateFormat;
 import java.util.Date;
 import java.util.Locale;
@@ -11,6 +10,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import com.formacion.nttdata.hello.model.User;
+
+
+
+
 
 @Controller
 
@@ -27,10 +30,13 @@ public class HomeController {
 	public String home(Locale locale, Model model) {
 
 		System.out.println("Home Page Requested, locale = " + locale);
+		
 
 		Date date = new Date();
 
 		DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
+		
+		
 
 		String formattedDate = dateFormat.format(date);
 
@@ -42,14 +48,30 @@ public class HomeController {
 
 	@RequestMapping(value = "/user", method = RequestMethod.POST)
 
-	public String user(@Validated User user, Model model) {
+	    public String user(@Validated User user, Model model, Locale locale) {
+    
+		       System.out.println("User Page Requested");
+		       
+	   
+		       
+		       int dig = user.getNumber();
+		    	
+		       Date date= new Date (); 
+		        
+		       DateFormat  dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
+		        
+		       date.setDate(date.getDate() + dig );
+		        
+		       String formattedDate = dateFormat.format (date);
+		       
+		       model.addAttribute("newServerTime", formattedDate);
+		        		     
+               model.addAttribute("userName", user.getUserName());
 
-		System.out.println("User Page Requested");
-
-		model.addAttribute("userName", user.getUserName());
-
-		return "user";
-
+		        return "user";
+	     
+		     
+		     
 	}
 
 }
