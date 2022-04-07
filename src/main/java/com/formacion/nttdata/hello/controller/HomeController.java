@@ -65,6 +65,19 @@ public class HomeController {
 		       model.addAttribute("newServerTime", formattedDate);
 		        		     
                model.addAttribute("userName", user.getUserName());
+               
+               
+               
+               
+               
+               
+               
+               model.addAttribute("userSurname", user.getUserName());
+               
+               
+               
+               
+               
 
 		        return "user";
 	     
