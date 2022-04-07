@@ -20,6 +20,16 @@
 		
 		<h1>⬇⬇ Pulse aqui ⬇⬇</h1>
 		<input type="submit" value="  OBTENER RESULTADO  ">
+		
+		
+		
+		
+		<a href="javascript:history.go(-1);">volvemos a la 1 página anterior</a>
+		
+		
+		
+		
+		
 	</form>
 </body>
 </html>
