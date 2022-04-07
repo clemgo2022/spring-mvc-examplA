@@ -8,6 +8,6 @@
 <body>
 	<h3>Hi ${userName}</h3>
 	
-	<P> El tiempo en tu servidor es: ${newServerTime}.</P>
+	<P> La Fecha en tu servidor es: ${newServerTime}.</P>
 </body>
 </html>
