@@ -72,7 +72,7 @@ public class HomeController {
                
                
                
-               model.addAttribute("userSurname", user.getUserName());
+               model.addAttribute("userSurname", user.getUserSurname());
                
                
                
