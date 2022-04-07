@@ -13,8 +13,6 @@ import com.formacion.nttdata.hello.model.User;
 
 
 
-
-
 @Controller
 
 public class HomeController {
