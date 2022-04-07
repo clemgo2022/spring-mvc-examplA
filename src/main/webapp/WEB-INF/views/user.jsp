@@ -6,12 +6,12 @@
 <title>User Home Page</title>
 </head>
 <body>
-	<h3>Hola majete ${userName}</h3>
+	<h3>Hola majete ${username}</h3>
 	
 	<P> Fecha en tu servidor con los dias sumados ➧➧➧ ${newServerTime}.</P>
 	
-	<a href="javascript:history.go(-1);">volver a a pagina anterior</a>
-	<a href="document.referrer;">volver a a pagina anterior</a>
+	<a href="javascript:history.go(-1);">Volver a a pagina anterior</a>
+	
 	
 </body>
 </html>
