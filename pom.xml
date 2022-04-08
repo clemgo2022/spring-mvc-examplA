@@ -4,7 +4,7 @@
     <artifactId>spring-mvc-examplA</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>spring mvc example</name>
+    <name>spring mvc examplA</name>
     <description>spring mvc examplA</description>
     <properties>
         <lombok.version>1.18.12</lombok.version>
