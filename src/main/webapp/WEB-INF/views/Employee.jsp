@@ -15,15 +15,14 @@
 	<div class="container">
 		<h1>Employee Details</h1>
 		
-		
-		
-		
-	<P>Actual Date  ${serverTime}.</p>
-		
-		
-		
-		
+	
 		<hr />
+		
+		<P>Actual Date  ${serverTime}.</p>
+		
+		
+		
+		
 		<s:form action="saveProcess" modelAttribute="employee">
 			<s:hidden path="id" />
 			<s:hidden path="" value="${employee.hobbies}" id="hobbies" />

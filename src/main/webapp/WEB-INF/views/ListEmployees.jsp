@@ -18,15 +18,16 @@
 		
 		
 		
-		<form action="user" method="post">
+		
+				<P>Actual Date ${serverTime}.</p>
+		
 	 
 		 
 		 
-		<P>Actual Date ${serverTime}.</p>
+
 		
 	
-</form>
-		
+
 		
 		
 		
