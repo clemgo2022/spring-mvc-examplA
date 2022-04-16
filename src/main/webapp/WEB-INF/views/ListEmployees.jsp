@@ -60,7 +60,6 @@
 					
 					
 					
-					<th>Fecha</th>
 					
 					
 					
@@ -86,7 +85,7 @@
 						<td>${e.address}</td>
 						
 						
-						<td>${e.fecha}</td>
+						
 						
 						
 						
