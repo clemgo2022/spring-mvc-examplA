@@ -1,4 +1,4 @@
-ppackage com.formacion.nttdata.crud.dao;
+package com.formacion.nttdata.crud.dao;
 
 import java.util.List;
 import org.apache.ibatis.session.SqlSession;
