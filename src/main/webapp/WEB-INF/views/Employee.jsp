@@ -18,7 +18,6 @@
 	
 		<hr />
 		
-		<P>Actual Date  ${serverTime}.</p>
 		
 		
 		
