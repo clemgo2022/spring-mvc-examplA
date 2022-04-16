@@ -15,21 +15,25 @@
 	<div class="container">
 		<h1>Employee Details</h1>
 		
-	
-	
-	
-	
-	
+
 		<hr />
 		
-		<P>Actual Date</p>
+		
+		
+		
+		
+		<P>Actual Date
+
 		<script>
 var f = new Date();
 document.write(f.getDate() + "/" + (f.getMonth() +1) + "/" + f.getFullYear());
 </script>
+       
+        </p>
+
+
 		
-		
-		
+		<script>
 		
 		<s:form action="saveProcess" modelAttribute="employee">
 			<s:hidden path="id" />
