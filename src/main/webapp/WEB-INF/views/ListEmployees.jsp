@@ -15,7 +15,30 @@
 		<h1>Employee Details</h1>           
 		
 		
+		
+		
+		
+		<form action="user" method="post">
+	 
+		 
+		 
 		<P>Actual Date ${serverTime}.</p>
+		
+	
+</form>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		<p align="right">
