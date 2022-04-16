@@ -17,8 +17,7 @@ public class MyBatisUtil {
 			e.printStackTrace();
 		}
 	}
-
-	public static SqlSessionFactory getSqlSessionFactory() {
+	public static SqlSessionFactory getSqlSessionFactory(){
 		return sqlSessionFactory;
 	}
 }

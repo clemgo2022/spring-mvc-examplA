@@ -32,5 +32,6 @@
 		<P>Esta es la fecha de hoy ➧➧➧ ${serverTime}.</p>
 		</center>
 </form>
+
 </body>
 </html>
