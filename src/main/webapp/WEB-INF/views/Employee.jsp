@@ -14,10 +14,28 @@
 <body>
 	<div class="container">
 		<h1>Employee Details</h1>
+		
+		
+		
+		
+	<P>Actual Date  ${serverTime}.</p>
+		
+		
+		
+		
 		<hr />
 		<s:form action="saveProcess" modelAttribute="employee">
 			<s:hidden path="id" />
 			<s:hidden path="" value="${employee.hobbies}" id="hobbies" />
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			<div class="form-group">
 				<s:input path="fullname" class="form-control"
 					placeholder="Enter Full Name" />
@@ -96,6 +114,21 @@
 			});
 		});
 	</script>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 </body>
 </html>
 

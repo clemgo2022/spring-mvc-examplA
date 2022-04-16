@@ -12,7 +12,12 @@
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <body>
 	<div class="container">
-		<h1>Employee Details</h1>
+		<h1>Employee Details</h1>           
+		
+		
+		<P>Actual Date ${serverTime}.</p>
+		
+		
 		<p align="right">
 			<button
 				onclick="window.location.href = 'showFormForAdd.html'; return false;"
@@ -29,6 +34,16 @@
 					<th>Country</th>
 					<th>Address</th>
 					<th>Actions</th>
+					
+					
+					
+					<th>Fecha</th>
+					
+					
+					
+					
+					
+					
 				</tr>
 			</thead>
 			<c:forEach items="${employeeList}" var="e">
@@ -46,6 +61,13 @@
 						<td>${e.hobbies}</td>
 						<td>${e.country}</td>
 						<td>${e.address}</td>
+						
+						
+						<td>${e.fecha}</td>
+						
+						
+						
+						
 						<td><a href="${updateLink}">Update</a> | <a
 							href="${deleteLink}"
 							onclick="if(!(confirm('Are you sure want to delete this Employee permanently?'))) return false">Delete</a>
