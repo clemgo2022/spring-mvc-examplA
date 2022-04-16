@@ -12,6 +12,19 @@
 		<oracle.jdbc.version>19.7.0.0</oracle.jdbc.version>
 	</properties>
 	<dependencies>
+	
+	
+	
+	
+	
+	
+	<!-- https://mvnrepository.com/artifact/org.apache.tiles/tiles-el -->
+<dependency>
+    <groupId>org.apache.tiles</groupId>
+    <artifactId>tiles-el</artifactId>
+    <version>3.0.5</version>
+</dependency>
+
 		<!-- Add Spring Web and MVC dependencies -->
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -68,7 +81,7 @@
 		<dependency>
 			<groupId>org.mybatis</groupId>
 			<artifactId>mybatis</artifactId>
-			<version>3.0.4</version>
+			<version>${mybatis.version}</version>
 		</dependency>
 		<!-- spring mybatis integration -->
 		<dependency>
